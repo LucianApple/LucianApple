@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there!
 
 ### 🍎 About Me
 Currently exploring mobile development, focusing on **Swift** and **SwiftUI**. 
