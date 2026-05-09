@@ -11,7 +11,7 @@ I hold a **CEFR C1** level in English and look forward to expanding my skills in
 ### 🎓 Academic Background
 I have successfully completed university coursework in the following areas, providing me with a solid technical foundation:
 
-| Technology | Credits |
+| Subjects | Credits |
 | :--- | :--- |
 | **C Language** | 4 Credits |
 | **JavaScript** | 6 Credits |
