@@ -4,10 +4,10 @@
 Currently exploring mobile development, focusing on **Swift** and **SwiftUI**. 
 I hold a **CEFR C1** level in English and look forward to expanding my skills into **Dart** and cross-platform development.
 
-- 🔭 Working on my first hands-on project in Swift.
-- 🌍 Language: English (CEFR C1)
+- Working on my first hands-on project in Swift.
+- Language: English (CEFR C1)
 
-### Academic Background
+### 🎓 Academic Background
 I have successfully completed university coursework in the following areas, providing me with a solid technical foundation:
 
 | Technology | Credits |
