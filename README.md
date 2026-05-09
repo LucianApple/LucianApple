@@ -1,4 +1,4 @@
-# Hi there, I'm Lucian! 👋
+# Hi there 👋
 
 ### 🍎 About Me
 I'm a Swift enthusiast and an aspiring iOS Developer. I love building apps that are both functional and aesthetically pleasing. Currently focused on mastering modern iOS development.
