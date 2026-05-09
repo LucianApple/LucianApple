@@ -6,7 +6,7 @@ I hold a **CEFR C1** level in English and look forward to expanding my skills in
 
 - Working on my first hands-on project in Swift.
 - Interested in Security by Design and building resilient applications.
-- Language: Japanese(Native) | English (CEFR C1) | Chinese (HSK level 3)
+- Language: Japanese(Native) | English (CEFR C1) | Chinese (HSK Level 3)
 
 ### 🎓 Education
 
