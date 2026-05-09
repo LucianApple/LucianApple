@@ -8,9 +8,9 @@ I hold a **CEFR C1** level in English and look forward to expanding my skills in
 - Interested in Security by Design and building resilient applications.
 - Language: English (CEFR C1)
 
-### 🎓 Academic Background
+### 🎓 Education
 
-Cyber University<br>
+Cyber University | Faculty of IT and Business<br>
 2023 – Present (Expected Graduation: September 2027)<br>
 GPA: 4.0 / 4.0 (In Progress)
 
