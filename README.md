@@ -10,7 +10,7 @@ I hold a **CEFR C1** level in English and look forward to expanding my skills in
 
 ### 🎓 Education
 
-Cyber University | Faculty of IT and Business<br>
+Cyber University | Faculty of Information Technology and Business<br>
 2023 – Present (Expected Graduation: September 2027)<br>
 GPA: 4.0 / 4.0 (In Progress)
 
