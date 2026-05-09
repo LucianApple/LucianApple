@@ -1,5 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Lucian! 👋
 
+### 🍎 About Me
+I'm a Swift enthusiast and an aspiring iOS Developer. I love building apps that are both functional and aesthetically pleasing. Currently focused on mastering modern iOS development.
+
+- 🔭 I’m currently working on my first Swift project.
+- 🌱 I’m currently learning **SwiftUI**.
+
+### 🛠 My Tech Stack
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=flat&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
 <!--
 **LucianApple/LucianApple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
