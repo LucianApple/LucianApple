@@ -6,6 +6,16 @@ I'm a Swift enthusiast and an aspiring iOS Developer. I love building apps that 
 - 🔭 I’m currently working on my first Swift project.
 - 🌱 I’m currently learning **SwiftUI**.
 
+### Academic Background
+I have successfully completed university coursework in the following areas, providing me with a solid technical foundation:
+
+| Technology | Credits | Note |
+| :--- | :--- | :--- |
+| **C Language** | 4 Credits 
+| **JavaScript** | 6 Credits 
+| **HTML / CSS** | 8 Credits 
+| **Python** | 2 Credits 
+
 ### 🛠 My Tech Stack
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=flat&logo=swift&logoColor=white)
