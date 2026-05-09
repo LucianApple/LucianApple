@@ -1,10 +1,12 @@
 # Hi there 👋
 
 ### 🍎 About Me
-I'm a Swift enthusiast and an aspiring iOS Developer. I love building apps that are both functional and aesthetically pleasing. Currently focused on mastering modern iOS development.
+Currently exploring mobile development, focusing on **Swift** and **SwiftUI**. 
+I hold a **CEFR C1** level in English and look forward to expanding my skills into **Dart** and cross-platform development.
 
-- 🔭 I’m currently working on my first Swift project.
-- 🌱 I’m currently learning **SwiftUI**.
+- 🔭 Working on my first hands-on project in Swift.
+- 🌱 Interested in clean code and intuitive UI design.
+- 🌍 **Language:** English (CEFR C1)
 
 ### Academic Background
 I have successfully completed university coursework in the following areas, providing me with a solid technical foundation:
