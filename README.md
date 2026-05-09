@@ -10,7 +10,8 @@ I hold a **CEFR C1** level in English and look forward to expanding my skills in
 
 ### 🎓 Academic Background
 
-Cyber University | Faculty of Information Technology and Business
+Cyber University
+2023 – Present (Expected Graduation: September 2027)
 GPA: 4.0 / 4.0
 
 I have successfully completed university coursework in the following areas, providing me with a solid technical foundation:
