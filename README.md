@@ -9,12 +9,12 @@ I'm a Swift enthusiast and an aspiring iOS Developer. I love building apps that 
 ### Academic Background
 I have successfully completed university coursework in the following areas, providing me with a solid technical foundation:
 
-| Technology | Credits | Note |
+| Technology | Credits |
 | :--- | :--- | :--- |
-| **C Language** | 4 Credits 
-| **JavaScript** | 6 Credits 
-| **HTML / CSS** | 8 Credits 
-| **Python** | 2 Credits 
+| **C Language** | 4 Credits |
+| **JavaScript** | 6 Credits |
+| **HTML / CSS** | 4 Credits |
+| **Python** | 2 Credits |
 
 ### 🛠 My Tech Stack
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
