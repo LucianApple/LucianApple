@@ -6,7 +6,7 @@ I hold a **CEFR C1** level in English and look forward to expanding my skills in
 
 - 🔭 Working on my first hands-on project in Swift.
 - 🌱 Interested in clean code and intuitive UI design.
-- 🌍 **Language:** English (CEFR C1)
+- 🌍 Language: English (CEFR C1)
 
 ### Academic Background
 I have successfully completed university coursework in the following areas, providing me with a solid technical foundation:
