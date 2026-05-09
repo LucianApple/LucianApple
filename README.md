@@ -5,7 +5,7 @@ Currently exploring mobile development, focusing on **Swift** and **SwiftUI**.
 I hold a **CEFR C1** level in English and look forward to expanding my skills into **Dart** and cross-platform development.
 
 - Working on my first hands-on project in Swift.
-- Striving for Security by Design in application development.
+- Interested in Security by Design and building resilient applications.
 - Language: English (CEFR C1)
 
 ### 🎓 Academic Background
