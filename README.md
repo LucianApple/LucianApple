@@ -19,9 +19,11 @@ I have successfully completed university coursework in the following areas, prov
 | Subjects | Credits |
 | :--- | :--- |
 | **C Language** | 4 Credits |
-| **JavaScript** | 6 Credits |
+| **JavaScript** | 8 Credits |
 | **HTML & CSS** | 4 Credits |
 | **Python** | 2 Credits |
+| **Java** | 2 Credits |
+| **PHP** | 2 Credits |
 
 ### 🛠 My Tech Stack
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
