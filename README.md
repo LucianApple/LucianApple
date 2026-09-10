@@ -19,7 +19,7 @@ I have successfully completed university coursework in the following areas, prov
 | Subjects | Credits |
 | :--- | :--- |
 | **C Language** | 4 Credits |
-| **JavaScript(only)** | 4 Credits |
+| **JavaScript (only)** | 4 Credits |
 | **HTML & CSS & JavaScript** | 4 Credits |
 | **Python** | 2 Credits |
 | **Java** | 2 Credits |
